@@ -20,9 +20,8 @@ using System.Diagnostics;
 using Microsoft.VisualBasic;
 using Microsoft.VisualBasic.Devices;
 using Newtonsoft.Json;
-using ModernWpf.Controls;
+using iNKORE.UI.WPF.Modern.Controls;
 using ColorHelper;
-using PInvoke;
 
 
 namespace ModernWinVer

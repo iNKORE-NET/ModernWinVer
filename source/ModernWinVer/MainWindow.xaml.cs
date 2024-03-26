@@ -19,7 +19,8 @@ using Microsoft.VisualBasic;
 using Microsoft.VisualBasic.Devices;
 using Newtonsoft.Json;
 using Microsoft.Win32;
-using ModernWpf.Controls;
+using iNKORE.UI.WPF.Modern.Controls;
+using MessageBox = iNKORE.UI.WPF.Modern.Controls.MessageBox;
 
 namespace ModernWinVer
 {
